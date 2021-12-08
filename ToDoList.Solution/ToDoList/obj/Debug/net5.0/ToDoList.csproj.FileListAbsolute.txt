@@ -1,0 +1,12 @@
+/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ToDoList.deps.json
+/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ToDoList.dll
+/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ref/ToDoList.dll
+/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ToDoList.pdb
+/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.csproj.AssemblyReference.cache
+/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.AssemblyInfoInputs.cache
+/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.AssemblyInfo.cs
+/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.csproj.CoreCompileInputs.cache
+/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.dll
+/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ref/ToDoList.dll
+/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.pdb
