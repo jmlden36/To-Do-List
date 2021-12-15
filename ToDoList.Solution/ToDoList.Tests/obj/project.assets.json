@@ -2016,7 +2016,10 @@
         },
         "runtime": {
           "bin/placeholder/ToDoList.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -6703,19 +6706,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/Matt/.nuget/packages/": {}
+    "/Users/jamesluker/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList.Tests/ToDoList.Tests.csproj",
+      "projectUniqueName": "/Users/jamesluker/Desktop/Epicodus/To-Do-List/ToDoList.Solution/ToDoList.Tests/ToDoList.Tests.csproj",
       "projectName": "ToDoList.Tests",
-      "projectPath": "/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList.Tests/ToDoList.Tests.csproj",
-      "packagesPath": "/Users/Matt/.nuget/packages/",
-      "outputPath": "/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList.Tests/obj/",
+      "projectPath": "/Users/jamesluker/Desktop/Epicodus/To-Do-List/ToDoList.Solution/ToDoList.Tests/ToDoList.Tests.csproj",
+      "packagesPath": "/Users/jamesluker/.nuget/packages/",
+      "outputPath": "/Users/jamesluker/Desktop/Epicodus/To-Do-List/ToDoList.Solution/ToDoList.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/Matt/.nuget/NuGet/NuGet.Config"
+        "/Users/jamesluker/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -6727,8 +6730,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList/ToDoList.csproj": {
-              "projectPath": "/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList/ToDoList.csproj"
+            "/Users/jamesluker/Desktop/Epicodus/To-Do-List/ToDoList.Solution/ToDoList/ToDoList.csproj": {
+              "projectPath": "/Users/jamesluker/Desktop/Epicodus/To-Do-List/ToDoList.Solution/ToDoList/ToDoList.csproj"
             }
           }
         }

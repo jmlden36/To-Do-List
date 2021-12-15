@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList.Tests/ToDoList.Tests.csproj": {}
+    "/Users/jamesluker/Desktop/Epicodus/To-Do-List/ToDoList.Solution/ToDoList.Tests/ToDoList.Tests.csproj": {}
   },
   "projects": {
-    "/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList.Tests/ToDoList.Tests.csproj": {
+    "/Users/jamesluker/Desktop/Epicodus/To-Do-List/ToDoList.Solution/ToDoList.Tests/ToDoList.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList.Tests/ToDoList.Tests.csproj",
+        "projectUniqueName": "/Users/jamesluker/Desktop/Epicodus/To-Do-List/ToDoList.Solution/ToDoList.Tests/ToDoList.Tests.csproj",
         "projectName": "ToDoList.Tests",
-        "projectPath": "/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList.Tests/ToDoList.Tests.csproj",
-        "packagesPath": "/Users/Matt/.nuget/packages/",
-        "outputPath": "/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList.Tests/obj/",
+        "projectPath": "/Users/jamesluker/Desktop/Epicodus/To-Do-List/ToDoList.Solution/ToDoList.Tests/ToDoList.Tests.csproj",
+        "packagesPath": "/Users/jamesluker/.nuget/packages/",
+        "outputPath": "/Users/jamesluker/Desktop/Epicodus/To-Do-List/ToDoList.Solution/ToDoList.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/Matt/.nuget/NuGet/NuGet.Config"
+          "/Users/jamesluker/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList/ToDoList.csproj": {
-                "projectPath": "/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList/ToDoList.csproj"
+              "/Users/jamesluker/Desktop/Epicodus/To-Do-List/ToDoList.Solution/ToDoList/ToDoList.csproj": {
+                "projectPath": "/Users/jamesluker/Desktop/Epicodus/To-Do-List/ToDoList.Solution/ToDoList/ToDoList.csproj"
               }
             }
           }
@@ -74,17 +74,17 @@
         }
       }
     },
-    "/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList/ToDoList.csproj": {
+    "/Users/jamesluker/Desktop/Epicodus/To-Do-List/ToDoList.Solution/ToDoList/ToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList/ToDoList.csproj",
+        "projectUniqueName": "/Users/jamesluker/Desktop/Epicodus/To-Do-List/ToDoList.Solution/ToDoList/ToDoList.csproj",
         "projectName": "ToDoList",
-        "projectPath": "/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList/ToDoList.csproj",
-        "packagesPath": "/Users/Matt/.nuget/packages/",
-        "outputPath": "/Users/Matt/Desktop/To-Do-List/ToDoList.Solution/ToDoList/obj/",
+        "projectPath": "/Users/jamesluker/Desktop/Epicodus/To-Do-List/ToDoList.Solution/ToDoList/ToDoList.csproj",
+        "packagesPath": "/Users/jamesluker/.nuget/packages/",
+        "outputPath": "/Users/jamesluker/Desktop/Epicodus/To-Do-List/ToDoList.Solution/ToDoList/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/Matt/.nuget/NuGet/NuGet.Config"
+          "/Users/jamesluker/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -118,6 +118,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
